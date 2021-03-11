@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**jaimerehbein/jaimerehbein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+Desarrollador web
 
-Here are some ideas to get you started:
+Nombre de la empresa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+superalimentosup Profesional independiente
+Fechas de empleo dic. 2020 – actualidad
+Duración del empleo 4 meses
+Ubicación Santiago, Región Metropolitana de Santiago, Chile
+Freelance, self-employed
+Desarrollador web
+
+
+ 
+ Educación
+
+    EducacionIT
+    EducacionIT
+
+    Nombre de la titulación Programador Web
+
+    backend dev
+    frontend dev
+    web designer
