@@ -4,19 +4,19 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 & nbsp; Actualmente estoy aprendiendo desarrollo de aplicaciones reactivas
-- 🤔 & nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software y hacks rápidos.
-- 🎓 & nbsp; Estudiar Ciencias de la Computación, Programación de Computadores y Matemáticas.
-- 💼 & nbsp; Desarrollador web backend y desarrollador web front-end.
-- 🌱 & nbsp; Aficionado a la ciberseguridad.
-- ✍️ & nbsp; Componer Música cinemática y trailers
-- ☕ & nbsp; Creo, en una taza de café perfecta.
+- 🤔  Siempre estoy Explorando nuevas tecnologías y desarrollando soluciones de software y hacks rápidos.
+- 🎓  Estudié Ingenieria, desarrollo web y composición musica.
+- 💼  Desarrollador web backend y desarrollador web front-end.
+- 🌱  Aficionado a la ciberseguridad.
+- ✍️  Me gusta Componer Música cinemática y trailers, eventualmente colaboro en proyectos cinematográficos.
+- ☕  Creo, en una taza de café perfecta.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Php | javascript |   
 - 🌐 &nbsp; Reactnative | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code  | Git
+- 🔧 &nbsp;  Visual Studio code  | Git
 
 <br>
 
