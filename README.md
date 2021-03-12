@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
- Actualmente estoy aprendiendo desarrollo de aplicaciones reactivas para móbiles y web.
+ Actualmente estoy endesarrollo de aplicaciones reactivas para móbiles y web.
 - 🤔  Siempre estoy Explorando nuevas tecnologías y desarrollando soluciones de software y hacks rápidos.
 - 🎓  Estudié Ingeniería, desarrollo web y composición musical.
 - 💼  Desarrollador web backend y desarrollador web front-end.
