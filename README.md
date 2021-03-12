@@ -8,7 +8,7 @@
 - 🎓  Estudié Ingeniería, desarrollo web y composición musical.
 - 💼  Desarrollador web backend y desarrollador web front-end.
 - 🌱  Aficionado a la ciberseguridad.
-- ✍️  Me gusta Componer Música cinemática y trailers, eventualmente colaboro en proyectos cinematográficos.
+- ✍️  Me gusta Componer Música cinemática, Orchestral Programming y trailers, eventualmente colaboro en proyectos cinematográficos.
 - ☕  Creo, en una taza de café perfecta.
 
 <h3>🛠 Tech Stack</h3>
