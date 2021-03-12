@@ -17,6 +17,7 @@
 - 🌐 &nbsp; Reactnative | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp;  Visual Studio code  | Git
+- 🔧 &nbsp;  LAMP  | MERN | WordPress
 
 <br>
 
