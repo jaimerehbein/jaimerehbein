@@ -9,7 +9,7 @@
 - 💼  Desarrollador web backend y desarrollador web front-end.
 - 🌱  Aficionado a la ciberseguridad.
 - ✍️  Me gusta Componer Música cinemática, Orchestral Programming y trailers, y si me invitan,también colaboro en proyectos cinematográficos.
-- ☕  Creo, en una taza de café perfecta.
+
 
 <h3>🛠 Tech Stack</h3>
 
