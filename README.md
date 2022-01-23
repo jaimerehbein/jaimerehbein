@@ -5,10 +5,9 @@
 
  Actualmente estoy en desarrollo de aplicaciones reactivas para móbiles y web.
 - 🤔  Siempre estoy Explorando nuevas tecnologías y desarrollando soluciones de software y hacks rápidos.
-- 🎓  Estudié Ingeniería (Universidad Tecnológica), desarrollo web (Educación IT)y composición musical .
-- 💼  Desarrollador web backend y desarrollador web front-end.
-- 🌱  Aficionado a la ciberseguridad.
-- ✍️  Me gusta Componer Música cinemática, Orchestral Programming y trailers, y si me invitan,también colaboro en proyectos cinematográficos.
+- 🎓  Estudié desarrollo web,Desarrollador web backend y desarrollador web front-end(Educación IT) https://www.educacionit.com/carrera-php
+
+
 
 
 <h3>🛠 Tech Stack</h3>
