@@ -6,7 +6,7 @@
  Actualmente estoy en desarrollo de aplicaciones reactivas para móbiles y web.
 - 🤔  Siempre estoy Explorando nuevas tecnologías y desarrollando soluciones de software y hacks rápidos.
 - 🎓  Estudié desarrollo web,Desarrollador web backend y desarrollador web front-end(Educación IT) https://www.educacionit.com/
-- 
+- 🎓 Actualmente estoy estudiando Licenciatura en Economía en Universidad Tecnológica TECH, interesado por la investigación economica , social y financiera.
 
 
 
